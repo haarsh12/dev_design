@@ -1,0 +1,17 @@
+{
+  "name": "Vyamit AI",
+  "short_name": "Vyamit AI",
+  "description": "The voice-first AI shop management platform for Indian businesses.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f8f3",
+  "theme_color": "#b7ed37",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

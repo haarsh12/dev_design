@@ -1,0 +1,38 @@
+.logo {
+  align-items: center;
+  color: #101714;
+  display: inline-flex;
+  gap: 0.62rem;
+  letter-spacing: -0.075em;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.mark {
+  display: inline-flex;
+  gap: 0.18rem;
+  height: 1.72rem;
+  transform: skewX(-14deg);
+}
+
+.mark i {
+  background: #b7ed37;
+  border-radius: 0.15rem;
+  display: block;
+  transform: rotate(24deg);
+  width: 0.38rem;
+}
+
+.mark i:nth-child(1) { height: 1.18rem; margin-top: 0.5rem; }
+.mark i:nth-child(2) { background: #18221d; height: 1.62rem; }
+.mark i:nth-child(3) { height: 1.12rem; margin-top: 0.1rem; }
+
+.name { font-size: 1.25rem; font-weight: 800; }
+.name span { color: #58ad41; margin-left: 0.06em; }
+.light { color: #fff; }
+.light .mark i:nth-child(2) { background: #fff; }
+
+@media (max-width: 680px) {
+  .name { font-size: 1.14rem; }
+  .mark { height: 1.5rem; }
+}

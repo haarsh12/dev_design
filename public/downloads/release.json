@@ -1,0 +1,11 @@
+{
+  "android": {
+    "available": false,
+    "version": "1.0.0",
+    "releaseDate": "Launching soon",
+    "sizeLabel": "Release pending"
+  },
+  "ios": {
+    "available": false
+  }
+}

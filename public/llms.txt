@@ -1,0 +1,19 @@
+# Vyamit AI
+
+Vyamit AI is a voice-first AI shop management platform built for Indian small businesses.
+
+## Product
+
+Vyamit AI brings together voice billing, inventory management, customer ledgers, GST-ready invoices, UPI-ready virtual bills, shop profiles, cloud history, printer support, and business insights.
+
+## Who it is for
+
+Kirana and grocery stores, pharmacies, dairy and bakery retailers, stationery stores, wholesalers, and other small businesses in India.
+
+## Product approach
+
+Shopkeepers can speak naturally in familiar languages and dialects. Vyamit AI is designed to recognise items and quantities, prepare bills, update connected records, and make business data easier to act on.
+
+## Official site
+
+https://vyamit.ai/
