@@ -1,5 +1,5 @@
 import {
-  BarChart3, Bot, Boxes, Cloud, HeartPulse, Languages, Mic, PackageSearch, Printer, ReceiptText, ShieldCheck, Store, WifiOff,
+  BarChart3, Bot, Boxes, Cloud, HeartPulse, Languages, Mic, PackageSearch, Printer, ReceiptText, ShieldCheck, Store, Users, WifiOff,
 } from 'lucide-react'
 
 export const navItems = [
@@ -17,7 +17,8 @@ export const featureCards = [
   { icon: Mic, title: 'Voice command center', text: 'Speak a sale naturally. Vyamit understands, calculates, and drives the workflow.' },
   { icon: Languages, title: 'Shop language intelligence', text: 'Built around Hindi, English, Marathi, familiar dialects, and natural phrases.' },
   { icon: Boxes, title: 'Live inventory control', text: 'Every sale can update stock, so your shelves, catalogue, and records stay aligned.' },
-  { icon: ReceiptText, title: 'Customer ledger', text: 'Keep customer records and outstanding balances close to the sale, not lost in a notebook.' },
+  { icon: ReceiptText, title: 'Customer ledger', text: 'Keep customer records, dues, and credit history close to the sale, not lost in a notebook.' },
+  { icon: Users, title: 'Lending & credit tracking', text: 'Track customer advances, dues, and credit sales alongside every bill and inventory movement.' },
   { icon: BarChart3, title: 'Business intelligence', text: 'See top products, sales momentum, bill value, and daily performance at a glance.' },
   { icon: PackageSearch, title: 'Instant product discovery', text: 'Search your catalogue without breaking the rhythm of a crowded counter.' },
   { icon: ReceiptText, title: 'GST-ready billing', text: 'Create clean, professional invoices with the tax detail customers expect.' },
@@ -42,6 +43,7 @@ export const faqs = [
   ['Can I make a bill by speaking?', 'Yes. The experience is designed around natural spoken billing commands, so you can stay focused on your customer instead of a keyboard.'],
   ['Which languages will it understand?', 'The roadmap includes Hindi, English, Marathi, and broader Indian language support. Availability can vary by release.'],
   ['Does it support GST invoices?', 'Vyamit is designed to create clean GST-ready invoices. You should still configure and verify the tax settings applicable to your business.'],
+  ['Can Vyamit manage lending and customer credit?', 'Yes. Vyamit is built to keep credit sales, advances, outstanding balances and customer ledger history aligned with every invoice and inventory update.'],
   ['Will it work without the internet?', 'Core billing is designed for low-connectivity environments. Cloud-based features sync once a reliable connection is available.'],
   ['Can I use my existing printer?', 'Vyamit is being built to work with common Bluetooth ESC/POS thermal printers, including affordable models used by small businesses.'],
   ['Is my data secure?', 'The planned platform uses authenticated access, protected sessions, and secure cloud infrastructure. Never share account credentials or OTPs.'],

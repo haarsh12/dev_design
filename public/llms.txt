@@ -1,10 +1,16 @@
 # Vyamit AI
 
-Vyamit AI is a voice-first AI shop management platform built for Indian small businesses.
+Vyamit AI is a voice-first AI shop management platform built for Indian small businesses. It is designed for retail and wholesale shops that need fast billing, clear inventory control, customer ledger visibility, lending and credit tracking, GST-ready invoices, UPI-ready virtual bills, printer support, and business insights in one command center.
 
-## Product
+## Core product value
 
-Vyamit AI brings together voice billing, inventory management, customer ledgers, GST-ready invoices, UPI-ready virtual bills, shop profiles, cloud history, printer support, and business insights.
+- Voice-first billing for counters and busy shop floors
+- Inventory management and live stock awareness
+- Customer ledger and amount due tracking
+- Lending and credit tracking for shopkeepers
+- GST-ready invoices and professional billing output
+- UPI-ready virtual bills and digital record sharing
+- Cloud history, business insights, and a modern mobile experience
 
 ## Who it is for
 

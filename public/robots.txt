@@ -2,3 +2,7 @@ User-agent: *
 Allow: /
 
 Sitemap: https://vyamit.ai/sitemap.xml
+Sitemap: https://vyamit.ai/sitemap-index.xml
+
+# Helpful crawling hints for search engines
+Host: vyamit.ai

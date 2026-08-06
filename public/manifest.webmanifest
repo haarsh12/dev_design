@@ -1,7 +1,7 @@
 {
   "name": "Vyamit AI",
   "short_name": "Vyamit AI",
-  "description": "The voice-first AI shop management platform for Indian businesses.",
+  "description": "The voice-first AI shop management platform for Indian kirana, pharmacy, dairy, and general stores, featuring billing, inventory, ledger, lending, and GST-ready billing.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#f7f8f3",
