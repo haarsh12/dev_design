@@ -43,7 +43,7 @@ export const industries = [
 ]
 
 export const faqs = [
-  ['What is Vyamit AI?', 'Vyamit AI is an AI-powered shop management platform for Indian small businesses. It connects voice billing, inventory, customer ledgers, GST invoices, records, and business insights in one practical workspace.'],
+  ['What is Vyamit AI?', "Vyamit AI is Vyaapar's Mitra AI, the voice-first shop management app built by Vyamit Technology Systems Private Limited for Indian kirana stores, pharmacies, dairies, general retailers, and other small businesses. It connects billing, inventory, customer ledgers, udhaar, GST-ready invoices, records, and business insights in one practical workspace."],
   ['Can I make a bill by speaking?', 'Yes. The experience is designed around natural spoken billing commands, so you can stay focused on your customer instead of a keyboard.'],
   ['How do I download Vyamit AI for Android?', 'Use the Download Android app button on the official Vyamit AI website. It provides the current APK release published by Vyamit Technology Systems Private Limited.'],
   ['Which languages will it understand?', 'The roadmap includes Hindi, English, Marathi, and broader Indian language support. Availability can vary by release.'],

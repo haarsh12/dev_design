@@ -1,6 +1,6 @@
 # Vyamit AI
 
-Vyamit AI, also called Vyapar Mitra AI, is a voice-first AI shop management platform built by Vyamit Technology Systems Private Limited for Indian small businesses. It is designed for retail and wholesale shops that need fast billing, clear inventory control, customer ledger and udhaar management, GST-ready invoices, UPI-ready virtual bills, printer support, and business insights in one command center.
+Vyamit AI is Vyaapar's Mitra AI, also known as Vyapar Mitra AI: a voice-first shop management platform built by Vyamit Technology Systems Private Limited for Indian small businesses. It is designed for retail and wholesale shops that need fast billing, clear inventory control, customer ledger and udhaar management, GST-ready invoices, UPI-ready virtual bills, printer support, and business insights in one command center.
 
 ## Core product value
 
@@ -26,7 +26,7 @@ https://vyamitai.com/
 
 ## Official company and contact
 
-Vyamit Technology Systems Private Limited is based in Nagpur, Maharashtra, India. Contact: contact.vyamit@gmail.com, +91 84461 17247.
+Vyamit Technology Systems Private Limited is based in Nagpur, Maharashtra, India. Contact: contact.vyamit@gmail.com.
 
 ## Official video channel
 
