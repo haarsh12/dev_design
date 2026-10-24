@@ -29,18 +29,23 @@ export const featureCards = [
   { icon: HeartPulse, title: 'Digital prescription mode', text: 'A clearer pharmacy workflow for structured, readable prescriptions.' },
   { icon: Bot, title: 'AI business copilot', text: 'Ask about revenue, inventory, and shop activity in the language of your business.' },
   { icon: ShieldCheck, title: 'Security by design', text: 'Protected sessions and an architecture built for responsible growth.' },
+  { icon: ReceiptText, title: 'Ledger & Udhaar management', text: 'Record customer udhaar, payments, dues, and credit history alongside every sale.' },
 ]
 
 export const industries = [
   { name: 'Kirana & retail', icon: Store, note: 'Fast queues, familiar words.' },
   { name: 'Pharmacies', icon: HeartPulse, note: 'Clear bills, precise records.' },
-  { name: 'Wholesale', icon: Boxes, note: 'Bulk orders, less busywork.' },
+  { name: 'Hardware & electrical', icon: PackageSearch, note: 'Detailed stock, practical billing.' },
+  { name: 'Clothing & garment stores', icon: Users, note: 'Variants, sizes, and repeat customers.' },
+  { name: 'Wholesalers & distributors', icon: Boxes, note: 'Bulk orders, credit, less busywork.' },
+  { name: 'General retailers', icon: Store, note: 'Everyday sales, always in control.' },
   { name: 'Bakeries & dairy', icon: ReceiptText, note: 'Fresh stock, fast bills.' },
 ]
 
 export const faqs = [
   ['What is Vyamit AI?', 'Vyamit AI is an AI-powered shop management platform for Indian small businesses. It connects voice billing, inventory, customer ledgers, GST invoices, records, and business insights in one practical workspace.'],
   ['Can I make a bill by speaking?', 'Yes. The experience is designed around natural spoken billing commands, so you can stay focused on your customer instead of a keyboard.'],
+  ['How do I download Vyamit AI for Android?', 'Use the Download Android app button on the official Vyamit AI website. It provides the current APK release published by Vyamit Technology Systems Private Limited.'],
   ['Which languages will it understand?', 'The roadmap includes Hindi, English, Marathi, and broader Indian language support. Availability can vary by release.'],
   ['Does it support GST invoices?', 'Vyamit is designed to create clean GST-ready invoices. You should still configure and verify the tax settings applicable to your business.'],
   ['Can Vyamit manage lending and customer credit?', 'Yes. Vyamit is built to keep credit sales, advances, outstanding balances and customer ledger history aligned with every invoice and inventory update.'],
@@ -48,6 +53,6 @@ export const faqs = [
   ['Can I use my existing printer?', 'Vyamit is being built to work with common Bluetooth ESC/POS thermal printers, including affordable models used by small businesses.'],
   ['Is my data secure?', 'The planned platform uses authenticated access, protected sessions, and secure cloud infrastructure. Never share account credentials or OTPs.'],
   ['Can it manage inventory and customer ledgers?', 'Yes. Vyamit is designed to keep sales, inventory records, customer activity, and outstanding balances connected, so you spend less time reconciling the shop after closing.'],
-  ['Is there an iPhone version?', 'The iOS release is on the roadmap. This site will automatically surface it once the release file is available.'],
+  ['Which Android devices can run Vyamit AI?', 'The official Android package is built for 64-bit Android devices using the ARM64 (arm64-v8a) architecture.'],
   ['How much does Vyamit cost?', 'Pricing will be announced with the public launch. Join the notification list to hear first.'],
 ]

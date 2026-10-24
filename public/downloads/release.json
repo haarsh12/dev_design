@@ -1,9 +1,12 @@
 {
   "android": {
-    "available": false,
+    "available": true,
+    "file": "app-arm64-v8a-release.apk",
     "version": "1.0.0",
-    "releaseDate": "Launching soon",
-    "sizeLabel": "Release pending"
+    "releaseDate": "24 Oct 2026",
+    "sizeLabel": "49.5 MB",
+    "architecture": "Android 64-bit (ARM64)",
+    "checksum": "e39dc515d5822e4b6275505eee2198a6b04adb9359c4c3be619ba42839949088"
   },
   "ios": {
     "available": false

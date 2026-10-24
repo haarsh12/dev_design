@@ -28,6 +28,13 @@
 .productProofReverse .productProofCopy p { color: #bfd0bf; }
 .productProofReverse .productProofCopy b { background: rgba(202, 241, 123, .13); color: #cff292; }
 
+.videoSection { background: #f8faf5; display: grid; gap: clamp(2.5rem, 7vw, 7rem); grid-template-columns: minmax(15rem, .68fr) minmax(20rem, 1.32fr); }
+.videoIntro > div > p { color: #647167; font-size: 1rem; line-height: 1.75; margin: 1.2rem 0 1.35rem; max-width: 28rem; }
+.videoChannel { align-items: center; color: #3f8734; display: inline-flex; font-size: .76rem; font-weight: 800; gap: .45rem; text-decoration: none; }
+.videoChannel:hover { color: #1f5f2a; text-decoration: underline; }
+.videoFrame { aspect-ratio: 16 / 9; background: #17261d; border-radius: 1.2rem; box-shadow: 0 22px 44px rgba(27, 50, 31, .16); overflow: hidden; }
+.videoFrame iframe { border: 0; display: block; height: 100%; width: 100%; }
+
 @media (max-width: 1100px) { .heroVisual { transform: none !important; transform-origin: center !important; }.productReality { gap: 1rem; }.productProofCopy { padding: 1.2rem; } }
 @media (max-width: 820px) { .heroVisual { aspect-ratio: 1 / 1; height: auto !important; margin: 1.7rem auto 0 !important; max-width: 42rem; transform: none !important; width: 100% !important; }.realInterface { inset: 0; }.badgeInventory { left: 2%; top: 12%; }.badgePayment { bottom: 8%; right: 2%; }.productReality { grid-template-columns: 1fr; }.productProof { display: grid; grid-template-columns: 1fr 1fr; }.productProofReverse { display: grid; }.productProofReverse .productImage { order: 2; }.productImage { min-height: auto; padding: .8rem .8rem 0; }.productProofCopy { min-height: 100%; } }
 @media (max-width: 580px) { .heroVisual { aspect-ratio: 1 / 1; height: auto !important; margin: 1.4rem auto 0 !important; transform: none !important; width: 100% !important; }.realInterfaceBadge { padding: .5rem; }.realInterfaceBadge svg { height: 1.65rem; padding: .38rem; width: 1.65rem; }.realInterfaceBadge b { font-size: .5rem; }.realInterfaceBadge small { font-size: .4rem; max-width: 6.2rem; }.badgeInventory { left: -1%; top: 12%; }.badgePayment { bottom: 7%; right: -1%; }.productReality { margin-top: 2.5rem; }.productProof, .productProofReverse { display: block; }.productProofReverse .productImage { order: initial; }.productProofCopy { min-height: auto; padding: 1.15rem; }.productProofCopy h3 { font-size: 1.45rem; }.productImage { padding: .65rem .65rem 0; } }
@@ -119,3 +126,7 @@ h1 em, h2 em { color: #519f3e; font-family: 'Newsreader', Georgia, serif; font-w
 
 .cookieBanner { align-items: center; background: rgba(22, 38, 29, .96); border: 1px solid rgba(183,237,55,.2); border-radius: .9rem; bottom: 1rem; box-shadow: 0 15px 42px rgba(18,28,19,.24); color: #fff; display: flex; gap: 1.5rem; justify-content: space-between; left: 1rem; max-width: 39rem; padding: .85rem 1rem; position: fixed; z-index: 50; }.cookieBanner b { font-size: .72rem; }.cookieBanner p { color: #bfccbe; font-size: .59rem; line-height: 1.5; margin: .25rem 0 0; max-width: 24rem; }.cookieBanner > div:last-child { display: flex; flex: 0 0 auto; gap: .45rem; }.cookieBanner button { background: transparent; border: 0; color: #c7d6c7; cursor: pointer; font-size: .59rem; font-weight: 700; padding: .55rem; white-space: nowrap; }.cookieBanner button:last-child { background: #b7ed37; border-radius: 99px; color: #19291e; }
 @media (max-width: 580px) { .cookieBanner { align-items: flex-start; bottom: .6rem; flex-direction: column; gap: .5rem; left: .6rem; right: .6rem; }.cookieBanner > div:last-child { width: 100%; }.cookieBanner button { flex: 1; } }
+
+.node9 { left: 1%; top: 39%; }
+.companyName { color: #617064; font-size: .78rem; line-height: 1.7; margin: 1.4rem 0 0; }
+@media (max-width: 820px) { .videoSection { grid-template-columns: 1fr; } }
